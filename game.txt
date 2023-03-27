@@ -1,5 +1,8 @@
 public class game {
     int id;
     String name;
+    float grade;
     float cgpa;
+   
 }
+
